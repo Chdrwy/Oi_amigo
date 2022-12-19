@@ -3,12 +3,12 @@
     font-size: 16px;
 }
 body{
-    background-color:rgb(21, 168, 119);
+    background-color:rgb(181, 30, 106);
 }
 main{
-    background-color:blueviolet ;
+    background-color:rgb(53, 4, 112) ;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgb(77, 18, 29);
+    box-shadow: 3px 3px 5px rgb(18, 23, 77);
 }
